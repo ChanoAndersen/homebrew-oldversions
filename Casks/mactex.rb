@@ -1,6 +1,6 @@
 cask "mactex" do
   version "2023.0314"
-  sha512 "0ff569be6af3e658b4a60e2b89bf10c41b9bae38bdaee60021c69aea238d2436886c0883954ab0a64394d9a6e080958b2fc82f91ac5c4dfe9e1de32df46efd49"
+  sha256 "57304ece58618f0dfc6a41be39d1d6e8f688d81247c84a89eb1cc788b280050b"
 
   url "https://mirror.ctan.org/systems/mac/mactex/mactex-#{version.no_dots}.pkg",
       verified: "mirror.ctan.org/systems/mac/mactex/"
